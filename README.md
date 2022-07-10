@@ -1,5 +1,5 @@
-# DQN-Pytorch
-A clean and minimal implementation of DQN (Deep Q Learning) algorithm in Pytorch.
+# Deep Q Learning (DQN)
+This repository contains a clean and minimal implementation of Deep Q Learning (DQN) algorithm in Pytorch.
 
 ## References
 * "Playing Atari with Deep Reinforcement Learning", Mnih et al. [Link](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf).
