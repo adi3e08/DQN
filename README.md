@@ -13,7 +13,7 @@ This repository contains a clean and minimal implementation of Deep Q Learning (
 
 <p align="center">
 <img src=".media/dqn_mountain_car.png" width="33%"/>
-<img src=".media/dqn_mountain_car.gif" width="40%"/>
+<img src=".media/dqn_mountain_car.gif" width="35%"/>
 </p>
 
 ## References
